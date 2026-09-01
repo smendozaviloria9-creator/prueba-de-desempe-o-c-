@@ -1,0 +1,14 @@
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /bin/Debug/net10.0/financiera
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /bin/Debug/net10.0/financiera.deps.json
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /bin/Debug/net10.0/financiera.runtimeconfig.json
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /bin/Debug/net10.0/financiera.dll
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /bin/Debug/net10.0/financiera.pdb
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/financiera.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/financiera.AssemblyInfoInputs.cache
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/financiera.AssemblyInfo.cs
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/financiera.csproj.CoreCompileInputs.cache
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/financiera.dll
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/refint/financiera.dll
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/financiera.pdb
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/financiera.genruntimeconfig.cache
+/home/sebastian/Documentos/prueba-de-desempe-o-c--main/prueba-de-desempe-o-c-/financiera /obj/Debug/net10.0/ref/financiera.dll
